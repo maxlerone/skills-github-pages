@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background: #008080;
+    color: white;
+    padding: 50px 20px;
+}
+
+.cta-btn {
+    background: #ffcc00;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+section {
+    padding: 40px 20px;
+}
+
+h2 {
+    color: #008080;
+}
+
+.product {
+    display: inline-block;
+    width: 30%;
+    margin: 20px;
+    text-align: center;
+}
+
+footer {
+    background: #333;
+    color: white;
+    padding: 20px;
+}
